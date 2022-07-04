@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="warkop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/warkop.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
